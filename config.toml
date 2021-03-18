@@ -1,5 +1,5 @@
 basepath = "."
 
 [[paths]]
-	reference = "strings/en.json"
-	l10n = "strings/{locale}.json"
+	reference = "strings/en.ftl"
+	l10n = "strings/{locale}.ftl"
