@@ -1,3 +1,3 @@
 [[paths]]
-	reference = "strings/en.ftl"
-	l10n = "strings/{locale}.ftl"
+	reference = "strings/en/strings.ftl"
+	l10n = "strings/{locale}/strings.ftl"
