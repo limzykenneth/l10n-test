@@ -1,4 +1,4 @@
-basepath = ".."
+basepath = "."
 locales=["zh-CN"]
 [[paths]]
 	reference = "strings/en.ftl"
