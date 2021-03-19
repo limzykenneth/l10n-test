@@ -1,3 +1,5 @@
+basepath = "./strings"
+
 [[paths]]
-	reference = "strings/en/strings.ftl"
-	l10n = "strings/{locale}/strings.ftl"
+	reference = "en/strings.ftl"
+	l10n = "{locale}/strings.ftl"
