@@ -1,1 +1,1 @@
-home = Home
+home = 主页
